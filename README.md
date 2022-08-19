@@ -6,19 +6,9 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 </p>
 <hr>
 
-# Other Available Languages:
+# In Turkish:
 
-1. [Arabic Git Cheat Sheet](./other-sheets/git-cheat-sheet-ar.md)
-2. [Brazilian Portuguese Git Cheat Sheet](./other-sheets/git-cheat-sheet-pt_BR.md)
-3. [Chinese Git Cheat Sheet](./other-sheets/git-cheat-sheet-zh.md)
-4. [German Git Cheat Sheet](./other-sheets/git-cheat-sheet-de.md)
-5. [Greek Git Cheat Sheet](./other-sheets/git-cheat-sheet-el.md)
-6. [Hindi Git Cheat Sheet](./other-sheets/git-cheat-sheet-hi.md)
-7. [Korean Git Cheat Sheet](./other-sheets/git-cheat-sheet-ko.md)
-8. [Polish Git Cheat Sheet](./other-sheets/git-cheat-sheet-pl.md)
-9. [Spanish Git Cheat Sheet](./other-sheets/git-cheat-sheet-es.md)
-10. [Turkish Git Cheat Sheet](./other-sheets/git-cheat-sheet-tr.md)
-11. [Bengali Git Cheat Sheet](./other-sheets/git-cheat-sheet-bn.md)
+- [Turkish Git Cheat Sheet](./other-sheets/git-cheat-sheet-tr.md)
 
 Git cheat sheet saves you from learning all the commands by heart.
 
@@ -628,30 +618,6 @@ Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 <hr>
 
-### Setup
-###### You need a working git installation as prerequisite. Git flow works on OSX, Linux and Windows.
-
-##### OSX Homebrew:
-```
-$ brew install git-flow-avh
-```
-
-##### OSX Macports:
-```
-$ port install git-flow
-```
-
-##### Linux (Debian-based):
-```
-$ sudo apt-get install git-flow
-```
-
-##### Windows (Cygwin):
-###### You need wget and util-linux to install git-flow.
-```bash
-$ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh install <state> | bash
-```
-<hr>
 
 ### Getting Started
 ###### Git flow needs to be initialized in order to customize your project setup. Start using git-flow by initializing it inside an existing git repository:
